@@ -1,0 +1,24 @@
+E:\Sushant\ShutDownDetails\ShutDownDetails\bin\ShutDownDetails.dll
+E:\Sushant\ShutDownDetails\ShutDownDetails\bin\ShutDownDetails.pdb
+E:\Sushant\ShutDownDetails\ShutDownDetails\bin\Oracle.ManagedDataAccess.dll
+E:\Sushant\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.dll
+E:\Sushant\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.pdb
+E:\Sushant\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.csprojResolveAssemblyReference.cache
+E:\Myworks\Sushant\ShutDownDetails\ShutDownDetails\bin\ShutDownDetails.dll.config
+E:\Myworks\Sushant\ShutDownDetails\ShutDownDetails\bin\ShutDownDetails.dll
+E:\Myworks\Sushant\ShutDownDetails\ShutDownDetails\bin\ShutDownDetails.pdb
+E:\Myworks\Sushant\ShutDownDetails\ShutDownDetails\bin\Oracle.ManagedDataAccess.dll
+E:\Myworks\Sushant\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.csprojAssemblyReference.cache
+E:\Myworks\Sushant\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.csproj.CoreCompileInputs.cache
+E:\Myworks\Sushant\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.csproj.CopyComplete
+E:\Myworks\Sushant\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.dll
+E:\Myworks\Sushant\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.pdb
+C:\Users\kpkmt942\Desktop\HPCL New-07-07\31955380_20230712_122103_Projects\Projects\ShutDownDetails\ShutDownDetails\bin\ShutDownDetails.dll.config
+C:\Users\kpkmt942\Desktop\HPCL New-07-07\31955380_20230712_122103_Projects\Projects\ShutDownDetails\ShutDownDetails\bin\ShutDownDetails.dll
+C:\Users\kpkmt942\Desktop\HPCL New-07-07\31955380_20230712_122103_Projects\Projects\ShutDownDetails\ShutDownDetails\bin\ShutDownDetails.pdb
+C:\Users\kpkmt942\Desktop\HPCL New-07-07\31955380_20230712_122103_Projects\Projects\ShutDownDetails\ShutDownDetails\bin\Oracle.ManagedDataAccess.dll
+C:\Users\kpkmt942\Desktop\HPCL New-07-07\31955380_20230712_122103_Projects\Projects\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.csproj.AssemblyReference.cache
+C:\Users\kpkmt942\Desktop\HPCL New-07-07\31955380_20230712_122103_Projects\Projects\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.csproj.CoreCompileInputs.cache
+C:\Users\kpkmt942\Desktop\HPCL New-07-07\31955380_20230712_122103_Projects\Projects\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.csproj.CopyComplete
+C:\Users\kpkmt942\Desktop\HPCL New-07-07\31955380_20230712_122103_Projects\Projects\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.dll
+C:\Users\kpkmt942\Desktop\HPCL New-07-07\31955380_20230712_122103_Projects\Projects\ShutDownDetails\ShutDownDetails\obj\Debug\ShutDownDetails.pdb

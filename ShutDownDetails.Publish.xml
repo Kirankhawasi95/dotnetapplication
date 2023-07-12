@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\31955380\Desktop\ShutDownDetails" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="09/30/2016 10:29:53" />
+    <file relUrl="bin/ShutDownDetails.dll" publishTime="09/30/2016 10:29:45" />
+    <file relUrl="Logout.aspx" publishTime="09/19/2016 16:27:51" />
+    <file relUrl="login.aspx" publishTime="09/16/2016 16:26:46" />
+    <file relUrl="css/images/navigation-border.png" publishTime="09/13/2016 09:42:37" />
+    <file relUrl="css/images/navigation-arr.png" publishTime="09/13/2016 09:42:37" />
+    <file relUrl="bin/Oracle.ManagedDataAccess.dll" publishTime="08/29/2013 14:20:30" />
+    <file relUrl="Images/Loading.gif" publishTime="11/12/2014 11:55:51" />
+    <file relUrl="Images/LogoHP.PNG" publishTime="07/06/2015 10:42:18" />
+    <file relUrl="Images/Calender.png" publishTime="07/30/2015 11:24:37" />
+    <file relUrl="Upload.aspx" publishTime="09/29/2016 10:28:21" />
+    <file relUrl="css/style.css" publishTime="09/14/2016 15:04:11" />
+    <file relUrl="css/images/navigation.png" publishTime="09/13/2016 09:42:37" />
+    <file relUrl="css/images/navigation-a.png" publishTime="09/13/2016 09:42:37" />
+    <file relUrl="Images/Refinery.PNG" publishTime="07/21/2015 14:11:45" />
+    <file relUrl="css/images/logo.png" publishTime="08/27/2013 12:21:47" />
+    <file relUrl="Images/MR Photo.png" publishTime="09/16/2015 09:21:55" />
+    <file relUrl="UploadValues.aspx" publishTime="09/14/2016 15:02:47" />
+    <file relUrl="Images/VR Photo.png" publishTime="09/16/2015 09:21:54" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="05/12/2010 11:24:02" />
+    <file relUrl="bin/ShutDownDetails.pdb" publishTime="09/30/2016 10:29:45" />
+  </publishProfile>
+</publishData>
